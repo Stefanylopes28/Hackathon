@@ -10,7 +10,7 @@
 
 ---
 <h1 align="center">
-## 🕹️ O jogo tem as seguintes funcionalidades..
+🕹️ O jogo tem as seguintes funcionalidades..
 </h1>
 
 - No jogo, você começa escolhendo se deseja jogar com o símbolo (X) ou (O). 

@@ -9,8 +9,9 @@
 
 
 ---
-
+<h1 align="center">
 ## 🕹️ O jogo tem as seguintes funcionalidades..
+</h1>
 
 - No jogo, você começa escolhendo se deseja jogar com o símbolo (X) ou (O). 
 - Após a seleção, você escolhe as posições no tabuleiro onde deseja jogar.
